@@ -5,7 +5,6 @@
 }
 
 .container { 
-    padding: 50px;
     display: grid;
     grid-template-columns: 33% 33% 29%;
     grid-template-rows: auto;
